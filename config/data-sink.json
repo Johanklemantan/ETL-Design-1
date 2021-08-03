@@ -1,0 +1,8 @@
+{
+  "driver": "mysql+mysqldb://",
+  "username" : "root",
+  "password" : "Funicula8!",
+  "host" : "localhost",
+  "port": "4000",
+  "database": "result"
+}

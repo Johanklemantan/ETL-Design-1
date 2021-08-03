@@ -1,0 +1,18 @@
+{
+  "driver": "mysql+mysqldb://",
+  "username" : "etl1_user",
+  "password" : "etl1_password",
+  "host" : "mysql",
+  "port": "3306",
+  "database": "result"
+}
+
+
+{
+  "driver": "mysql+mysqldb://",
+  "username" : "root",
+  "password" : "Funicula8!",
+  "host" : "localhost",
+  "port": "4000",
+  "database": "result"
+}

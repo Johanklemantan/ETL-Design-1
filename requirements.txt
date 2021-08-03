@@ -1,0 +1,7 @@
+SQLAlchemy==1.4.13
+pandas==1.1.5
+python-dateutil==2.7.3
+mysql-connector==2.2.9
+mysql-connector-python==8.0.26
+mysqlclient==2.0.3
+mariadb==1.0.7
